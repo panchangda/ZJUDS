@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "stack": "cpp",
+        "optional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "system_error": "c",
+        "array": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "cmath": "cpp",
+        "string_view": "c",
+        "initializer_list": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "memory": "c",
+        "string.h": "c"
+    },
+    "python.pythonPath": "C:\\Python\\Python38-32\\python.exe"
+}
